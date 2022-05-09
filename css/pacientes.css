@@ -1,0 +1,51 @@
+
+span
+{
+    font-size: 1.2em;
+}
+
+#btnAdd
+{
+    background: rgba(20, 197, 64, 0.952);
+    border-radius: 20%;
+}
+
+.buttonDelete
+{
+    color: red;
+    border-color: white;
+}
+
+.buttonEdit
+{
+    color: orange;
+}
+
+#tablaC
+{
+    overflow-y: auto;
+    margin-bottom: 120px;
+}
+
+
+
+main{
+    background: white ;
+    max-height: 650px;
+    height: 100%;
+    overflow-y: auto;
+}
+
+
+.tabScroll
+{
+    height: 600px;
+    overflow: scroll;
+}
+
+
+.imgPac 
+{
+    height: 60px;
+    border-radius: 10px;
+}

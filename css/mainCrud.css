@@ -1,0 +1,118 @@
+
+
+main{
+    background: white ;
+    min-height: 695px;
+    height: 100%;
+}
+
+span
+{
+    font-size: 1.2em;
+}
+
+#btnAdd
+{
+   background: rgba(20, 197, 64, 0.952);
+   border-radius: 20%;
+}
+
+.buttonDelete
+{
+    color: red;
+    border-color: white;
+}
+
+.buttonEdit
+{
+    color: orange;
+}
+body
+{
+    
+    overflow-y: hidden;
+}
+
+
+
+#slider
+{
+    height: 100%;
+    max-height: 692px;
+}
+
+#slider #slider2
+{
+    height: 100%;
+    max-height: 692px;
+}
+
+#divMain
+{
+    height: 100%;
+    max-height: 692px;  
+}
+
+#tablaC
+{
+
+    overflow-y: auto;
+    margin-bottom: 120px;
+}
+
+.tabScroll
+{
+    height: 600px;
+    overflow: scroll;
+}
+
+
+@media (max-width: 599px) {
+    #slider
+    {
+        position: fixed;
+        width: 25%;
+        left: -40px;
+    }
+
+    #slider2 ul li a
+    {
+        font-size: 0.7rem;
+        width: 90%;
+    }
+
+    #vieTab
+    {
+        position: fixed;
+        right: 30px;
+    }
+    
+    #sector
+    {
+        overflow: hidden;
+    }
+
+}
+
+@media (min-width: 601px) {
+    #slider
+    {
+        position: unset;
+        width: 20%;
+        left: unset;
+    }
+    #slider2 ul li a
+    {
+        font-size: unset;
+        width: unset;
+    }
+
+    #vieTab
+    {
+        position: unset;
+        right: unset;
+    }
+
+}
+
+
