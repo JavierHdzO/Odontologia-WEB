@@ -13,5 +13,6 @@ fco_hernandez1705@hotmail.com
 - HTML
 - CSS
 - Boostrap5
+- MySql
 - JQuery/Ajax
 
