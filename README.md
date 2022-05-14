@@ -1,9 +1,17 @@
 # ProyectoFInal_TSTI_G
 
-### Integantes
-
 - Hernandez Ortiz Francisco Javier
-- Rodriguez Bautista Mario Alberto
-- Muro Roman Sebastian
-- Guzman Rivera J. Alberto
-- Reyes Lara Rubisel
+
+# Contacto
+
+fco_hernandez1705@hotmail.com
+
+
+# Tecnologias
+
+- PHP
+- HTML
+- CSS
+- Boostrap5
+- JQuery/Ajax
+
